@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Excel, Python and SQL**
 
-- 📫 How to reach me **gideonleslie@gmail.com**
+- 📫 How to reach me: **gideonleslie9@gmail.com**
 
-- ⚡ Fun fact **I'm positive I'll be crazy Rich**
+- ⚡ Fun fact: **I'm positive I'll be crazy Rich**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
