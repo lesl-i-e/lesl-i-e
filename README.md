@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning using Python**
 
-- 💬 Ask me about **Excel, Python and SQL**
+- 💬 Ask me about **Excel, Python, Power BI(Including DAX) and SQL**
 
 - 📫 How to reach me: **gideonleslie9@gmail.com**
 
