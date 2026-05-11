@@ -1,26 +1,105 @@
-<h1 align="center">Hi 👋, I'm Gedion Leslie</h1>
-<h3 align="center">Junior Data Scientist in Kenya</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Zomato](https://github.com/lesl-i-e/Zomato_Analysis)
+```
+╔══════════════════════════════════════════════════════════╗
+║         G E D I O N   L E S L I E   K I P L A G A T     ║
+║                  Data Scientist → Data Engineer          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-- 🌱 I’m currently learning **Machine Learning using Python**
+</div>
 
-- 💬 Ask me about **Excel, Python, Power BI(Including DAX) and SQL**
+<div align="center">
 
-- 📫 How to reach me: **gideonleslie9@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideon-leslie-385949253/)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/lesl_i_e_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_lesl.i.e_/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gideonleslie9@gmail.com)
 
-- ⚡ Fun fact: **Positive I'll be crazy Rich**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/lesl_i_e_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/lesl_i_e_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gideon-leslie-385949253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gideon-leslie-385949253/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_lesl.i.e_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_lesl.i.e_/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lesl-i-e&show_icons=true&locale=en" alt="lesl-i-e" /></p>
+BSc Data Science & Analytics candidate at **JKUAT**, Kenya — wrapping up a final-year research project on SME financial distress prediction across sub-Saharan Africa.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesl-i-e&" alt="lesl-i-e" /></p>
+My work sits at the intersection of machine learning, interpretability, and real-world business context. I'm transitioning toward **data engineering** — building the pipelines and infrastructure that make machine learning possible at scale, not just the models themselves.
+
+Based in Nairobi. Interested in how data infrastructure can accelerate economic outcomes across Africa.
+
+---
+
+### Featured Project · SME Distress Prediction in Africa
+
+> Predicting financial distress for small & medium enterprises across 8 African countries using World Bank survey data.
+
+**14,688 firms · 3-class target (Stable / Moderate Risk / High Risk) · XGBoost**
+
+| Metric | Score |
+|---|---|
+| ROC-AUC | 1.0000 |
+| F1-macro | 0.9985 |
+
+Built end-to-end: data cleaning → feature engineering → hyperparameter tuning → SHAP interpretability → 5-page Streamlit dashboard → deployed.
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lesl-i-e/kenya-sme-distress-ml)
+
+---
+
+### Other Work
+
+| Project | Description | Tools |
+|---|---|---|
+| [Zomato Analysis](https://github.com/lesl-i-e/Zomato_Analysis) | Restaurant data exploration and insights | Python, Pandas, Matplotlib |
+| JMP Water Access Analysis | WHO/UNICEF global drinking water trends, 2000–2020 | Excel, Pivot Tables, ARC analysis |
+
+---
+
+### Stack
+
+**Languages**
+`Python` `SQL` `C++`
+
+**Data & ML**
+`Pandas` `NumPy` `Scikit-learn` `XGBoost` `SHAP`
+
+**Visualisation & BI**
+`Matplotlib` `Seaborn` `Power BI` `DAX` `Streamlit`
+
+**Data Engineering (learning)**
+`dbt` `Apache Airflow` `BigQuery` `Docker`
+
+**Other**
+`Excel` `HTML` `CSS` `Git`
+
+---
+
+### Currently
+
+- 🎓 Completing BSc Data Science & Analytics at JKUAT
+- 🔬 Finalising research on African SME distress prediction with ML interpretability
+- 🛠 Learning data pipeline design — dbt, Airflow, cloud warehousing
+- 📍 Nairobi, Kenya
+
+---
+
+### Goals
+
+Building toward a career in **data engineering** — designing robust, scalable data systems that power analytics and ML across African markets.
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lesl-i-e&show_icons=true&hide_border=true&title_color=0F6E56&icon_color=0F6E56&text_color=444441&bg_color=F1EFE8" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lesl-i-e&hide_border=true&ring=0F6E56&fire=0F6E56&currStreakLabel=0F6E56&background=F1EFE8&sideLabels=444441&dates=888780" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to data engineering roles, internships, and collaborations · gideonleslie9@gmail.com</sub>
+</div>
